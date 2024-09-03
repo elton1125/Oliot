@@ -1,0 +1,16 @@
+﻿<Window x:Class="Harjoitus_15.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus_15"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,10,-6">
+        <Button x:Name="btnHenkilöauto" Content="Henkilöauto" HorizontalAlignment="Left" Margin="223,125,0,0" VerticalAlignment="Top" Height="92" Width="162" Click="btnHenkilöauto_Click"/>
+        <Button x:Name="btnKuormaauto" Content="Kuorma-auto" HorizontalAlignment="Left" Margin="419,125,0,0" VerticalAlignment="Top" Height="92" Width="165" RenderTransformOrigin="0.497,0.476" Click="btnKuormaauto_Click"/>
+        <TextBlock x:Name="tbHenkilöauto" HorizontalAlignment="Left" Height="26" Margin="223,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="115" RenderTransformOrigin="0.531,0.566"><Run Language="fi-fi" Text="0"/></TextBlock>
+        <TextBlock x:Name="tbKuormaauto" HorizontalAlignment="Left" Height="26" Margin="467,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="69" RenderTransformOrigin="2.415,0.615"><Run Language="fi-fi" Text="0"/></TextBlock>
+
+    </Grid>
+</Window>

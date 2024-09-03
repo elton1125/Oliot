@@ -1,0 +1,15 @@
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\bin\Debug\Harjoitus 15.exe.config
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\bin\Debug\Harjoitus 15.exe
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\bin\Debug\Harjoitus 15.pdb
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus 15.csproj.AssemblyReference.cache
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\obj\Debug\MainWindow.g.cs
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\obj\Debug\App.g.cs
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus 15_MarkupCompile.cache
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus 15_MarkupCompile.lref
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\obj\Debug\MainWindow.baml
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus 15.g.resources
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus_15.Properties.Resources.resources
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus 15.csproj.GenerateResource.cache
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus 15.csproj.CoreCompileInputs.cache
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus 15.exe
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus 15.pdb
