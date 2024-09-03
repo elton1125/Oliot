@@ -1,0 +1,4 @@
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 2\Harjoitus 2\obj\Debug\net6.0\Harjoitus 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 2\Harjoitus 2\obj\Debug\net6.0\Harjoitus 2.AssemblyInfoInputs.cache
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 2\Harjoitus 2\obj\Debug\net6.0\Harjoitus 2.AssemblyInfo.cs
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 2\Harjoitus 2\obj\Debug\net6.0\Harjoitus 2.csproj.CoreCompileInputs.cache
