@@ -1,0 +1,28 @@
+﻿<Window x:Class="Harjoitus_26.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="KirjastoSovellus" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <ListView x:Name="lv_Kirjat" ItemsSource="{Binding Kirjat}" Margin="10" Width="300">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Nimi" DisplayMemberBinding="{Binding Nimi}" Width="120"/>
+                    <GridViewColumn Header="Kirjailija" DisplayMemberBinding="{Binding Kirjailija}" Width="120"/>
+                    <GridViewColumn Header="Sivumäärä" DisplayMemberBinding="{Binding Sivumäärä}" Width="60"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <StackPanel Grid.Column="1" Margin="10">
+            <Button Content="Lisää kirja" Click="LisääKirja_Click" Margin="0 0 0 5"/>
+            <Button Content="Poista kirja" Click="PoistaKirja_Click" Margin="0 0 0 5"/>
+            <Button Content="Lainaa kirja" Click="LainaaKirja_Click" Margin="0 0 0 5"/>
+            <Button Content="Palauta kirja" Click="PalautaKirja_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
