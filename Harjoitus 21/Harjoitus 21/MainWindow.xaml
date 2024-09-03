@@ -1,0 +1,14 @@
+﻿<Window x:Class="Harjoitus_21.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ostoskori" Height="350" Width="525">
+    <Grid>
+        <StackPanel Orientation="Vertical" Margin="10">
+            <CheckBox x:Name="checkBoxOmena" Content="Omena" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+            <CheckBox x:Name="checkBoxBanaani" Content="Banaani" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+            <CheckBox x:Name="checkBoxAppelsiini" Content="Appelsiini" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+            <Button Content="Osta" Click="OstaButton_Click" Margin="0 10 0 0"/>
+        </StackPanel>
+        <StackPanel x:Name="VarastoPanel" Orientation="Vertical" Margin="150,10,10,10"/>
+    </Grid>
+</Window>

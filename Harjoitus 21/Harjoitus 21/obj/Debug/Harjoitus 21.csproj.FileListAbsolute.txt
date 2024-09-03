@@ -1,0 +1,14 @@
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\bin\Debug\Harjoitus 21.exe.config
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\bin\Debug\Harjoitus 21.exe
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\bin\Debug\Harjoitus 21.pdb
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\obj\Debug\Harjoitus 21.csproj.AssemblyReference.cache
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\obj\Debug\MainWindow.baml
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\obj\Debug\MainWindow.g.cs
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\obj\Debug\App.g.cs
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\obj\Debug\Harjoitus 21_MarkupCompile.cache
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\obj\Debug\Harjoitus 21.g.resources
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\obj\Debug\Harjoitus_21.Properties.Resources.resources
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\obj\Debug\Harjoitus 21.csproj.GenerateResource.cache
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\obj\Debug\Harjoitus 21.csproj.CoreCompileInputs.cache
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\obj\Debug\Harjoitus 21.exe
+C:\Users\elton.zogjani\source\repos\elton1125\Harjoitus 21\Harjoitus 21\obj\Debug\Harjoitus 21.pdb
